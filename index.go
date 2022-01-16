@@ -1,7 +1,6 @@
 package main
 
 func main() {
-
 	/*
 
 		//Flag
@@ -12,13 +11,11 @@ func main() {
 		// - But It will show 3rd parameter usage when we run it as help
 		//   like - go run index.go -h (or) -help
 
-
-						//Flag Name , Default Value   , Usage
+		//Flag Name , Default Value   , Usage
 		timeLimit := flag.Int("limit", 15, "Time limit for Quiz")
 		flag.Parse()
 
 		_ = timeLimit //to avoid error
-
 
 		// Input in terminal to run file :- - go run index.go -limit=30
 		// Output :- (value of timeLimit varible is 30 Now in Program)
@@ -37,8 +34,8 @@ func main() {
 
 		fmt.Println(digit)
 
-		// Input Run Program 5 times
-		// it will print different numbers 5 times
+		// Input  - Run Program 5 times
+		// Output - it will print different numbers 5 times
 
 	*/
 }
